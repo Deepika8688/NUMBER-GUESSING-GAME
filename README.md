@@ -1,2 +1,0 @@
-# NUMBER GUESSING GAME
- oasis task2
